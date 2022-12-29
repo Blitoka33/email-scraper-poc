@@ -18,4 +18,14 @@ pip install requests
 pip install BeautifulSoup
 ```
 
-After you've done that, try how the tool works. If you have issues feel free to open an issue about it in Github.
+After you've done that, try how the tool works. 
+Run the application with the following command:
+```
+python main.py
+```
+OR if that doesn't work
+```
+python3 main.py
+```
+
+If you have issues feel free to open an issue about it in Github.
